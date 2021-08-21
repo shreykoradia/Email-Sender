@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 var bodyParser = require('body-parser');
+require('dotenv').config
 // const { parseConnectionUrl } = require('nodemailer/lib/shared');
 
 
