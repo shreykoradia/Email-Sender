@@ -1,1 +1,1 @@
-The project is not going to run cause i don't have a Ethereal (Domain name) which is required to aim on nodemailer and hence i am not able to refactor it proplerly , if i buy the domain i will refactor the code or any one if have the domain name they can use this code by following the mandatory github protocols .
+ any one if have the domain name they can use this code by following the mandatory github protocols .
